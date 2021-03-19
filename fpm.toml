@@ -1,0 +1,10 @@
+name = "fsqlite"
+version = "0.0.1"
+license = "BSD"
+author = "Arjen Markus"
+maintainer = "lincoln@b-tu.de"
+
+[library]
+source-dir="src"
+build-script="./Build.sh"
+
